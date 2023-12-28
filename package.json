@@ -1,0 +1,22 @@
+{
+  "name": "next-lit",
+  "version": "1.0.0",
+  "description": "imt-lti",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abdul",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulhanna/neext-lti.git"
+  },
+  "keywords": [
+    "lti"
+  ],
+  "bugs": {
+    "url": "https://github.com/abdulhanna/neext-lti/issues"
+  },
+  "homepage": "https://github.com/abdulhanna/neext-lti#readme"
+}
